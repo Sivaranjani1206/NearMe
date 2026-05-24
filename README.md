@@ -177,11 +177,11 @@ store.html
 ```
 
 ## OUTPUT
+![alt text](<Screenshot (203).png>)
 ![alt text](<Screenshot (204).png>)
 ![alt text](<Screenshot (206).png>)
 ![alt text](<Screenshot (208).png>)
 ![alt text](<Screenshot (207).png>)
 ![alt text](<Screenshot (205).png>)
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
